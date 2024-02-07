@@ -134,7 +134,14 @@ prompt3 = ChatPromptTemplate.from_template("""
                                            )
 prompt4 = ChatPromptTemplate.from_template("""
                                            create the input for a remark.js document. The code is written but you need to provide the input for the textarea, the rest is done.
-                                           your output is the markdown output only, prefer to create multiple slides. 
+                                           your output is the markdown output only, prefer to create multiple slides.
+                                           make a level 1 for every new slide
+                                           The title of the slides is level 1
+                                           level 1 means it is a new slide
+                                           level 2 means it is a subsection
+                                           all rest stays the same
+                                           use --- to indicate the start of a new slide
+                                           avoid too much text in a slide
                                            input_text: {input_text} 
                                            """
                                            
@@ -163,9 +170,6 @@ def mychain(text):
         output1 = text
     
     print_to_screen.invoke({"input":output1})
-
-    # intermediate task with no output in the chain, but does an intermediate task
-    from operator import itemgetter
 
     p = prompt3.invoke({"input_text":output1})
     output = ChatOpenAI().invoke(p)

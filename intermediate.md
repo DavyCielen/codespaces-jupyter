@@ -1,35 +1,29 @@
-# Places to Visit in Paris
+# Rate Limit on Search Engine
 
-If you're planning a trip to Paris and wondering what places to visit, here are some top recommendations:
+## Introduction
+This document provides information about the rate limit on the search engine. It explains the restrictions imposed on users and the actions they should take when encountering the rate limit. 
 
-## 1. Eiffel Tower
-No visit to Paris would be complete without seeing the iconic Eiffel Tower. Take a trip to the top for breathtaking views of the city or simply enjoy a picnic in the nearby Champ de Mars park.
+## Rate Limit Policy
+The search engine has a rate limit in place to ensure fair usage and maintain optimal performance. The rate limit is designed to prevent excessive requests from a single user or IP address within a specific time frame.
 
-## 2. Louvre Museum
-Art enthusiasts must visit the Louvre Museum, home to the famous Mona Lisa. Explore its vast collection of art and artifacts, including ancient Egyptian treasures and Renaissance masterpieces.
+### Limitations
+- The rate limit restricts the number of searches a user can perform within a given time period.
+- Exceeding the rate limit will result in temporary restrictions on search functionality.
 
-## 3. Notre-Dame Cathedral
-Marvel at the stunning Gothic architecture of Notre-Dame Cathedral. Climb to the top for panoramic views of Paris, or simply soak in the atmosphere while strolling along the Seine River.
+### Time Frame
+The time frame for the rate limit varies depending on the search engine's policies. It is usually measured in minutes, hours, or days.
 
-## 4. Montmartre
-Discover the bohemian charm of Montmartre, a lively neighborhood known for its artistic history. Visit the famous Sacré-Cœur Basilica, wander through quaint streets, and enjoy the vibrant café culture.
+### Notification
+When a user reaches the rate limit, they will receive a notification indicating that the limit has been exceeded. The notification will advise the user to try again later.
 
-## 5. Champs-Élysées
-Take a leisurely stroll along the Champs-Élysées, one of the world's most famous avenues. Enjoy shopping at high-end boutiques, visit the Arc de Triomphe, and indulge in delicious French cuisine at one of the many restaurants.
+## Actions to Take
+If you encounter the rate limit on the search engine, please follow these steps:
 
-## 6. Palace of Versailles
-Just outside Paris, the Palace of Versailles is a must-visit for history and architecture enthusiasts. Explore the opulent palace, its stunning gardens, and learn about the French monarchy's extravagant lifestyle.
+1. Wait for the specified time frame mentioned in the notification.
+2. Avoid making excessive search requests during this period to prevent further restrictions.
+3. After the designated time has passed, you can resume using the search engine as normal.
 
-## 7. Sainte-Chapelle
-Admire the exquisite stained glass windows of Sainte-Chapelle, a hidden gem within the city. This medieval chapel is renowned for its stunning Gothic architecture and incredible visual spectacle.
+## Conclusion
+Understanding the rate limit on the search engine is essential to ensure a smooth user experience. By adhering to the rate limit policy and following the suggested actions, users can avoid any interruptions and continue using the search engine effectively.
 
-## 8. Seine River Cruise
-Take a relaxing cruise along the Seine River to see the city from a different perspective. Enjoy the scenic views of Paris' landmarks, including the Notre-Dame Cathedral, Louvre Museum, and the Eiffel Tower.
-
-## 9. Orsay Museum
-Art lovers shouldn't miss the Musée d'Orsay, home to an extensive collection of Impressionist and Post-Impressionist masterpieces. Marvel at works by Monet, Renoir, Van Gogh, and more.
-
-## 10. Luxembourg Gardens
-Escape the bustling city and unwind at the Luxembourg Gardens. This beautiful park offers serene surroundings, stunning flowerbeds, and plenty of space for a leisurely stroll or a picnic.
-
-Whether you're interested in art, history, or simply exploring the city's vibrant neighborhoods, Paris offers a wealth of attractions to suit every traveler's taste. Enjoy your visit to the City of Light!
+Please note that the rate limit policy may be subject to change, and it is advisable to refer to the search engine's official documentation for the most up-to-date information.
