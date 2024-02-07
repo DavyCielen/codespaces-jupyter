@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "codespaces-jupyter"
+version = "0.1.0"
+description = ""
+authors = ["DavyCielen <davy.cielen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+langchain = "^0.1.5"
+torch = "^2.2.0"
+openai = "^1.11.1"
+langchain-community = "^0.0.18"
+langchain-openai = "^0.0.5"
+torchtext = "^0.17.0"
+spacy = "^3.7.3"
+scikit-learn = "^1.4.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
