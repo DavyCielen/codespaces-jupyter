@@ -16,6 +16,9 @@ torchtext = "^0.17.0"
 spacy = "^3.7.3"
 scikit-learn = "^1.4.0"
 colorama = "^0.4.6"
+docx = "^0.2.4"
+langchain-core = "^0.1.19"
+markdown2docx = "^0.1.0"
 
 
 
